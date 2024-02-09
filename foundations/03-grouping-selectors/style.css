@@ -1,0 +1,14 @@
+.psi.nu {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+
+.psi{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.nu{
+    background-color: yellow;
+}
